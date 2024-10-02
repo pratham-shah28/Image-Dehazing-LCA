@@ -3,8 +3,8 @@
 ## LC Net
 
 **By:**  
-Pratham Shah - IU1941230155  
-Manit Shah - IU1941230150
+Pratham Shah 
+Manit Shah 
 
 **Mentor:**  
 Dr. Kaushal Jani
@@ -91,6 +91,9 @@ This neural network consists of an encoder-decoder type of architecture.
 ---
 
 ## Output
+
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/5bf318f7-5acb-4af6-8a6b-8fcacdb1d70b">
+
 
 ---
 
